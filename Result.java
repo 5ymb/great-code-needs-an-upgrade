@@ -1,4 +1,4 @@
-public class Result extends input {
+public class Result extends Input {
 public void display(){
     System.out.println("The set contains: ");
     for (j = 0; j < nElems; j++) {
