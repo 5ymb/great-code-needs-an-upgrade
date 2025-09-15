@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
- input one=new input();
+ Input one=new Input();
  Result two=new Result();
  one.in();
  one.getSearchKey();
